@@ -1,0 +1,323 @@
+Data For Vaccination Site c
+
+Summary Data
+Nurse 1 gave shots to 27 people
+Nurse 2 gave shots to 23 people
+Nurse 3 gave shots to 26 people
+Nurse 4 gave shots to 26 people
+Nurse 5 gave shots to 24 people
+Nurse 6 gave shots to 25 people
+Nurse 7 gave shots to 28 people
+Nurse 8 gave shots to 29 people
+Nurse 9 gave shots to 25 people
+Nurse 10 gave shots to 22 people
+Nurse 11 gave shots to 23 people
+Nurse 12 gave shots to 22 people
+
+
+The average total time per person to vaccinate 151 Seniors is 24.36 minutes
+The average total time per person to vaccinate 124 Adults is 20.69 minutes
+The average total time per person to vaccinate 25 Older Teens is 32.44 minutes
+The average total time per person to vaccinate 300 Patients is  12.26 minutes
+
+PATIENT ID 		 PATIENT TYPE 		   AGE 		   VACCINE 		 ARRIVAL TIME 		 WAIT TIME 		 TOTAL TIME 	 COST
+  Patient4          Senior              71          Pfizer               0              10              11           15.50			
+ Patient10          Senior              72          Pfizer               1               9              10           15.50			
+ Patient14          Senior              61          Pfizer               2               8               9           15.50			
+ Patient26          Senior              83         Moderna               4               7               8           12.50			
+  Patient3          Senior              97          Pfizer               0              10              12           15.50			
+  Patient8          Senior              73         Moderna               1               9              11           12.50			
+  Patient9          Senior              99          Pfizer               1               9              11           15.50			
+ Patient11          Senior              72         Moderna               1               9              11           12.50			
+ Patient12          Senior              74          Pfizer               1               9              11           15.50			
+  Patient7          Senior              82          Pfizer               1               9              11           15.50			
+ Patient16          Senior              95         Moderna               2               8              10           12.50			
+  Patient2          Senior              65         Moderna               0              10              13           12.50			
+ Patient27          Senior              78          Pfizer               4               7               9           15.50			
+ Patient41          Senior              76          Pfizer               6               6               7           15.50			
+ Patient30          Senior              89          Pfizer               4               7               9           15.50			
+ Patient25          Senior              71          Pfizer               4               6               9           15.50			
+ Patient47          Senior              81          Pfizer               7               6               7           15.50			
+ Patient38          Senior              90          Pfizer               6               6               8           15.50			
+ Patient40          Senior              64         Moderna               6               6               8           12.50			
+ Patient42          Senior              99          Pfizer               6               6               8           15.50			
+ Patient43          Senior              62         Moderna               7               5               7           12.50			
+ Patient56          Senior             100          Pfizer               9               5               6           15.50			
+ Patient32          Senior              89         Moderna               5               7              10           12.50			
+ Patient36          Senior              83          Pfizer               5               7              10           15.50			
+ Patient60          Senior              88         Moderna               9               5               6           12.50			
+ Patient49          Senior              88          Pfizer               8               5               7           15.50			
+ Patient62          Senior              62          Pfizer              10               4               5           15.50			
+ Patient45          Senior              69          Pfizer               7               5               8           15.50			
+ Patient53          Senior              96          Pfizer               8               5               7           15.50			
+ Patient55          Senior              66         Moderna               9               4               6           12.50			
+ Patient70          Senior              94          Pfizer              11               4               5           15.50			
+ Patient58          Senior              80          Pfizer               9               5               7           15.50			
+ Patient48          Senior              80         Moderna               7               6               9           12.50			
+ Patient79          Senior              93          Pfizer              12               3               4           15.50			
+ Patient67          Senior              92          Pfizer              10               4               6           15.50			
+ Patient71          Senior              69          Pfizer              11               4               6           15.50			
+ Patient94          Senior              71          Pfizer              14               2               3           15.50			
+ Patient80          Senior              78          Pfizer              12               3               5           15.50			
+ Patient84          Senior              97         Moderna              12               3               5           12.50			
+ Patient77          Senior              97          Pfizer              12               3               5           15.50			
+ Patient74          Senior             100         Moderna              11               4               7           12.50			
+ Patient90          Senior              65         Moderna              13               3               5           12.50			
+ Patient95          Senior              88          Pfizer              14               3               4           15.50			
+ Patient72          Senior              74         Moderna              11               4               7           12.50			
+ Patient86          Senior              64          Pfizer              13               3               5           15.50			
+ Patient93          Senior              91         Moderna              14               2               4           12.50			
+ Patient96          Senior              78         Moderna              14               3               4           12.50			
+ Patient78          Senior              99          Pfizer              12               3               6           15.50			
+Patient108          Senior              70          Pfizer              15               3               4           15.50			
+Patient111          Senior              81         Moderna              16               2               3           12.50			
+ Patient85          Senior              89          Pfizer              13               3               6           15.50			
+Patient112          Senior              97          Pfizer              16               2               3           15.50			
+Patient121          Senior              82          Pfizer              17               1               2           15.50			
+ Patient99          Senior              87          Pfizer              14               3               5           15.50			
+Patient100          Senior              79          Pfizer              14               3               5           15.50			
+Patient110          Senior              62          Pfizer              16               2               4           15.50			
+Patient127          Senior              81          Pfizer              18               1               2           15.50			
+Patient117          Senior              69         Moderna              17               1               3           12.50			
+Patient134          Senior              63          Pfizer              19               0               1           15.50			
+Patient137          Senior              86          Pfizer              19               0               1           15.50			
+Patient107          Senior              73         Moderna              15               2               5           12.50			
+Patient143          Senior              97          Pfizer              20               0               1           15.50			
+Patient144          Senior              96          Pfizer              20               0               1           15.50			
+Patient128          Senior              88          Pfizer              18               1               3           15.50			
+Patient133          Senior              78         Moderna              19               0               2           12.50			
+Patient116          Senior              80          Pfizer              16               2               5           15.50			
+Patient148          Senior              88         Moderna              20               0               1           12.50			
+Patient139          Senior              84         Moderna              19               0               2           12.50			
+Patient122          Senior              63          Pfizer              17               1               4           15.50			
+Patient125          Senior              87         Moderna              18               1               4           12.50			
+Patient153          Senior              91         Moderna              21               0               1           12.50			
+  Patient1           Adult              33          Pfizer               0              20              22           15.50			
+  Patient5           Adult              30          Pfizer               0              20              22           15.50			
+  Patient6           Adult              47         Moderna               0              20              22           12.50			
+Patient159          Senior              84         Moderna              22               0               1           12.50			
+Patient161          Senior              93          Pfizer              22               0               1           15.50			
+ Patient18           Adult              47         Moderna               2              19              21           12.50			
+Patient163          Senior              61         Moderna              22               0               1           12.50			
+Patient151          Senior              98          Pfizer              21               0               3           15.50			
+Patient152          Senior              77          Pfizer              21               0               3           15.50			
+Patient155          Senior              61          Pfizer              21               0               3           15.50			
+ Patient17           Adult              34          Pfizer               2              19              22           15.50			
+Patient162          Senior              73          Pfizer              22               0               2           15.50			
+Patient172          Senior              94          Pfizer              23               0               1           15.50			
+ Patient13           Adult              49          Pfizer               2              19              22           15.50			
+ Patient15           Adult              56          Pfizer               2              19              22           15.50			
+Patient167          Senior              86          Pfizer              23               0               2           15.50			
+Patient173          Senior              81         Moderna              24               0               1           12.50			
+Patient174          Senior              68          Pfizer              24               0               1           15.50			
+Patient168          Senior              83         Moderna              23               0               2           12.50			
+Patient175          Senior              97          Pfizer              24               0               1           15.50			
+Patient176          Senior             100         Moderna              24               0               1           12.50			
+Patient171          Senior              95          Pfizer              23               0               2           15.50			
+ Patient21           Adult              53         Moderna               3              21              22           12.50			
+Patient164          Senior              90          Pfizer              22               0               3           15.50			
+Patient185          Senior              82          Pfizer              25               0               1           15.50			
+Patient188          Senior              61          Pfizer              25               0               1           15.50			
+ Patient22           Adult              39          Pfizer               3              22              23           15.50			
+Patient177          Senior              94          Pfizer              24               0               2           15.50			
+Patient179          Senior              75          Pfizer              24               0               2           15.50			
+ Patient29           Adult              47          Pfizer               4              21              22           15.50			
+ Patient19           Adult              28          Pfizer               3              21              23           15.50			
+Patient182          Senior              87         Moderna              25               0               2           12.50			
+ Patient28           Adult              32          Pfizer               4              22              23           15.50			
+ Patient33           Adult              49          Pfizer               5              21              22           15.50			
+ Patient35           Adult              47         Moderna               5              21              22           12.50			
+ Patient37           Adult              59          Pfizer               6              20              21           15.50			
+Patient181          Senior              67          Pfizer              25               0               3           15.50			
+Patient195          Senior              71         Moderna              26               0               2           12.50			
+ Patient20           Adult              53         Moderna               3              22              25           12.50			
+ Patient23           Adult              25          Pfizer               3              22              25           15.50			
+Patient199          Senior              67          Pfizer              27               0               1           15.50			
+ Patient24           Adult              49         Moderna               3              22              25           12.50			
+Patient201          Senior              85          Pfizer              27               0               1           15.50			
+ Patient46           Adult              32          Pfizer               7              19              21           15.50			
+Patient193          Senior              65          Pfizer              26               0               3           15.50			
+Patient198          Senior              71          Pfizer              27               0               2           15.50			
+Patient207          Senior              99          Pfizer              28               0               1           15.50			
+Patient208          Senior              93         Moderna              28               0               1           12.50			
+Patient212          Senior              99          Pfizer              28               0               1           15.50			
+Patient197          Senior              64         Moderna              27               0               3           12.50			
+Patient219          Senior              63         Moderna              29               0               1           12.50			
+Patient200          Senior              62         Moderna              27               0               3           12.50			
+ Patient44           Adult              35          Pfizer               7              21              23           15.50			
+ Patient50           Adult              49         Moderna               8              20              22           12.50			
+Patient203          Senior              89          Pfizer              27               1               4           15.50			
+Patient213          Senior              68          Pfizer              29               0               2           15.50			
+Patient204          Senior              67         Moderna              27               1               4           12.50			
+Patient205          Senior              73          Pfizer              28               0               3           15.50			
+Patient216          Senior              76          Pfizer              29               0               2           15.50			
+Patient223          Senior              70          Pfizer              30               0               1           15.50			
+Patient225          Senior              73          Pfizer              30               0               1           15.50			
+Patient226          Senior              71         Moderna              30               0               1           12.50			
+Patient228          Senior              62          Pfizer              30               0               1           15.50			
+Patient229          Senior             100          Pfizer              31               0               1           15.50			
+Patient236          Senior              97          Pfizer              31               0               1           15.50			
+ Patient54           Adult              32          Pfizer               8              23              24           15.50			
+ Patient51           Adult              41          Pfizer               8              21              24           15.50			
+ Patient52           Adult              26          Pfizer               8              21              24           15.50			
+Patient237          Senior              74          Pfizer              32               0               1           15.50			
+Patient221          Senior              80         Moderna              30               0               3           12.50			
+Patient238          Senior              97         Moderna              32               0               1           12.50			
+ Patient65           Adult              51          Pfizer              10              21              23           15.50			
+ Patient66           Adult              31         Moderna              10              22              23           12.50			
+ Patient64           Adult              25          Pfizer              10              21              23           15.50			
+Patient245          Senior              70          Pfizer              33               0               1           15.50			
+Patient247          Senior              91          Pfizer              33               0               1           15.50			
+Patient234          Senior              94         Moderna              31               0               3           12.50			
+Patient242          Senior              83          Pfizer              32               0               2           15.50			
+ Patient59           Adult              60         Moderna               9              22              25           12.50			
+Patient251          Senior              91          Pfizer              33               0               1           15.50			
+ Patient63           Adult              45          Pfizer              10              21              24           15.50			
+ Patient68           Adult              57         Moderna              10              21              24           12.50			
+ Patient75           Adult              37         Moderna              11              22              23           12.50			
+Patient248          Senior              74         Moderna              33               0               2           12.50			
+ Patient76           Adult              36          Pfizer              11              23              24           15.50			
+ Patient73           Adult              40         Moderna              11              23              24           12.50			
+Patient243          Senior              62          Pfizer              32               0               3           15.50			
+Patient252          Senior              76          Pfizer              33               0               2           15.50			
+Patient255          Senior              89          Pfizer              34               0               2           15.50			
+Patient258          Senior              87         Moderna              34               0               2           12.50			
+Patient268          Senior              99          Pfizer              35               0               1           15.50			
+ Patient82           Adult              21          Pfizer              12              22              24           15.50			
+Patient256          Senior              79          Pfizer              34               0               3           15.50			
+ Patient69           Adult              25          Pfizer              11              23              26           15.50			
+Patient264          Senior              64          Pfizer              35               0               2           15.50			
+Patient266          Senior              65         Moderna              35               0               2           12.50			
+ Patient81           Adult              52          Pfizer              12              22              25           15.50			
+Patient274          Senior              81         Moderna              36               0               1           12.50			
+ Patient91           Adult              48         Moderna              13              21              24           12.50			
+Patient261          Senior              99          Pfizer              35               0               3           15.50			
+Patient279          Senior              96         Moderna              37               0               1           12.50			
+Patient280          Senior              79          Pfizer              37               0               1           15.50			
+Patient272          Senior             100          Pfizer              36               0               2           15.50			
+Patient283          Senior              73          Pfizer              37               0               1           15.50			
+ Patient92           Adult              45          Pfizer              13              22              25           15.50			
+Patient269          Senior              79         Moderna              36               0               3           12.50			
+Patient276          Senior              72          Pfizer              36               1               3           15.50			
+Patient271          Senior              69          Pfizer              36               0               3           15.50			
+Patient278          Senior              61          Pfizer              37               0               2           15.50			
+Patient288          Senior              98          Pfizer              38               0               1           15.50			
+Patient293          Senior              85          Pfizer              39               0               1           15.50			
+Patient296          Senior              61          Pfizer              39               0               1           15.50			
+Patient287          Senior              77          Pfizer              38               0               2           15.50			
+ Patient97           Adult              28         Moderna              14              25              26           12.50			
+ Patient98           Adult              59          Pfizer              14              24              26           15.50			
+ Patient88           Adult              56         Moderna              13              24              27           12.50			
+ Patient89           Adult              59          Pfizer              13              24              27           15.50			
+Patient103           Adult              20          Pfizer              15              25              26           15.50			
+Patient105           Adult              38          Pfizer              15              25              26           15.50			
+Patient285          Senior              88          Pfizer              38               0               3           15.50			
+Patient286          Senior              90         Moderna              38               0               3           12.50			
+Patient292          Senior              75         Moderna              38               0               3           12.50			
+Patient104           Adult              33          Pfizer              15              25              26           15.50			
+Patient295          Senior              81         Moderna              39               0               3           12.50			
+Patient118           Adult              50          Pfizer              17              24              25           15.50			
+Patient299          Senior              61          Pfizer              39               0               3           15.50			
+Patient101           Adult              22         Moderna              15              25              27           12.50			
+Patient102           Adult              32          Pfizer              15              25              27           15.50			
+Patient106           Adult              27         Moderna              15              25              27           12.50			
+Patient114           Adult              29          Pfizer              16              25              27           15.50			
+Patient129           Adult              60          Pfizer              18              24              25           15.50			
+Patient130           Adult              37         Moderna              18              24              25           12.50			
+Patient120           Adult              57          Pfizer              17              24              26           15.50			
+Patient109           Adult              42          Pfizer              16              24              27           15.50			
+Patient115           Adult              58         Moderna              16              25              28           12.50			
+Patient131           Adult              49          Pfizer              18              24              26           15.50			
+Patient124           Adult              24          Pfizer              17              24              27           15.50			
+Patient119           Adult              21         Moderna              17              24              27           12.50			
+Patient145           Adult              23         Moderna              20              23              24           12.50			
+Patient136           Adult              56          Pfizer              19              24              26           15.50			
+Patient126           Adult              43          Pfizer              18              24              27           15.50			
+Patient132           Adult              22         Moderna              18              24              27           12.50			
+Patient156           Adult              27          Pfizer              21              23              24           15.50			
+Patient138           Adult              41         Moderna              19              24              26           12.50			
+Patient140           Adult              60          Pfizer              19              24              26           15.50			
+Patient150           Adult              55          Pfizer              21              23              24           15.50			
+Patient135           Adult              27          Pfizer              19              23              26           15.50			
+Patient157           Adult              52         Moderna              22              23              24           12.50			
+Patient147           Adult              29          Pfizer              20              24              26           15.50			
+Patient146           Adult              57          Pfizer              20              23              26           15.50			
+Patient154           Adult              44          Pfizer              21              23              25           15.50			
+Patient158           Adult              48          Pfizer              22              23              25           15.50			
+Patient186           Adult              55         Moderna              25              21              22           12.50			
+Patient169           Adult              26         Moderna              23              22              24           12.50			
+Patient149           Adult              33         Moderna              21              23              26           12.50			
+Patient166           Adult              43          Pfizer              23              22              24           15.50			
+Patient170           Adult              34          Pfizer              23              22              24           15.50			
+Patient183           Adult              49          Pfizer              25              21              23           15.50			
+Patient165           Adult              47          Pfizer              23              22              25           15.50			
+Patient202           Adult              37         Moderna              27              20              21           12.50			
+Patient211           Adult              22          Pfizer              28              19              20           15.50			
+Patient180           Adult              30         Moderna              24              21              24           12.50			
+Patient187           Adult              41          Pfizer              25              21              23           15.50			
+Patient178           Adult              48          Pfizer              24              21              24           15.50			
+Patient190           Adult              52          Pfizer              26              20              22           15.50			
+Patient206           Adult              31         Moderna              28              20              21           12.50			
+Patient196           Adult              39          Pfizer              26              21              23           15.50			
+Patient209           Adult              33          Pfizer              28              20              21           15.50			
+Patient210           Adult              30          Pfizer              28              19              21           15.50			
+Patient215           Adult              44         Moderna              29              19              20           12.50			
+Patient191           Adult              40         Moderna              26              21              24           12.50			
+Patient235           Adult              36          Pfizer              31              18              19           15.50			
+Patient194           Adult              57          Pfizer              26              21              24           15.50			
+Patient218           Adult              42          Pfizer              29              19              21           15.50			
+Patient217           Adult              56         Moderna              29              19              21           12.50			
+Patient224           Adult              57          Pfizer              30              19              21           15.50			
+Patient230           Adult              60         Moderna              31              18              20           12.50			
+Patient250           Adult              37          Pfizer              33              17              18           15.50			
+Patient249           Adult              31         Moderna              33              17              18           12.50			
+Patient214           Adult              42          Pfizer              29              19              22           15.50			
+Patient233           Adult              25          Pfizer              31              18              20           15.50			
+Patient244           Adult              43         Moderna              32              17              19           12.50			
+Patient220           Adult              48          Pfizer              29              19              22           15.50			
+Patient222           Adult              44          Pfizer              30              18              21           15.50			
+Patient265           Adult              25         Moderna              35              16              17           12.50			
+Patient270           Adult              55         Moderna              36              15              16           12.50			
+Patient246           Adult              40          Pfizer              33              17              19           15.50			
+Patient275           Adult              49          Pfizer              36              15              16           15.50			
+Patient259           Adult              35         Moderna              34              17              19           12.50			
+Patient240           Adult              33          Pfizer              32              18              21           15.50			
+Patient253           Adult              55          Pfizer              34              17              19           15.50			
+Patient262           Adult              57          Pfizer              35              16              18           15.50			
+Patient254           Adult              27          Pfizer              34              16              19           15.50			
+Patient291           Adult              49         Moderna              38              14              15           12.50			
+Patient297           Adult              33         Moderna              39              14              15           12.50			
+Patient257           Adult              24          Pfizer              34              17              20           15.50			
+Patient267           Adult              60          Pfizer              35              16              19           15.50			
+Patient273           Adult              53          Pfizer              36              15              18           15.50			
+Patient289           Adult              31          Pfizer              38              15              17           15.50			
+Patient290           Adult              32          Pfizer              38              15              17           15.50			
+ Patient57       OlderTeen              17          Pfizer               9              45              46           15.50			
+Patient277           Adult              46         Moderna              37              15              18           12.50			
+Patient294           Adult              37          Pfizer              39              14              16           15.50			
+Patient282           Adult              58          Pfizer              37              15              18           15.50			
+Patient284           Adult              57          Pfizer              37              15              18           15.50			
+ Patient31       OlderTeen              18         Moderna               5              48              50           12.50			
+Patient113       OlderTeen              17         Moderna              16              39              40           12.50			
+ Patient39       OlderTeen              17          Pfizer               6              48              50           15.50			
+Patient141       OlderTeen              17          Pfizer              20              35              36           15.50			
+Patient142       OlderTeen              17         Moderna              20              35              36           12.50			
+ Patient83       OlderTeen              18          Pfizer              12              42              44           15.50			
+ Patient34       OlderTeen              17          Pfizer               5              48              51           15.50			
+ Patient87       OlderTeen              16          Pfizer              13              42              44           15.50			
+Patient123       OlderTeen              19          Pfizer              17              38              40           15.50			
+Patient232       OlderTeen              17          Pfizer              31              25              26           15.50			
+ Patient61       OlderTeen              16         Moderna              10              44              47           12.50			
+Patient184       OlderTeen              19          Pfizer              25              30              32           15.50			
+Patient227       OlderTeen              17          Pfizer              30              26              28           15.50			
+Patient231       OlderTeen              17         Moderna              31              25              27           12.50			
+Patient160       OlderTeen              18          Pfizer              22              33              36           15.50			
+Patient239       OlderTeen              19          Pfizer              32              24              26           15.50			
+Patient192       OlderTeen              18         Moderna              26              29              32           12.50			
+Patient189       OlderTeen              19          Pfizer              26              30              33           15.50			
+Patient281       OlderTeen              17         Moderna              37              20              22           12.50			
+Patient241       OlderTeen              16         Moderna              32              24              27           12.50			
+Patient260       OlderTeen              16          Pfizer              34              23              26           15.50			
+Patient263       OlderTeen              19          Pfizer              35              22              25           15.50			
+Patient300       OlderTeen              16          Pfizer              39              18              21           15.50			
+Patient298       OlderTeen              16          Pfizer              39              18              21           15.50			
